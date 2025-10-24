@@ -1,5 +1,4 @@
-# Abdul-Rehman
-About Me
+
 # 👋 Hi, I'm Abdul Rehman  
 
 🎓 **BS Cyber Security | HITEC University**  
@@ -22,19 +21,10 @@ I believe in learning by doing — and GitHub is where I document my projects, c
 
 ---
 
-## 📂 Featured Projects  
-🔹 [Password Strength Checker](#)  
-🔹 [Network Packet Analyzer](#)  
-🔹 [Simple Encryption-Decryption Tool](#)  
-
-*(Links can be added when you upload your projects)*  
-
----
-
 ## 📫 Connect With Me  
-📧 Email: your.email@example.com  
-🌐 GitHub: [github.com/AbdulRehman](https://github.com/AbdulRehman)  
-💼 LinkedIn: [linkedin.com/in/abdulrehman](#)
+📧 Email: mirabdulrehman796@gmail.com  
+🌐 GitHub: [github.com/AbdulRehman](https://github.com/abdulrehman939)  
+💼 LinkedIn: [linkedin.com/in/abdulrehman](https://www.linkedin.com/in/abdul-rehman-15797137a/)
 
 ---
 
