@@ -1,31 +1,37 @@
-
-# 👋 Hi, I'm Abdul Rehman  
-
-🎓 **BS Cyber Security | HITEC University**  
-💻 **Aspiring Cybersecurity Specialist | Programmer | Tech Enthusiast**  
+<h1 align="center">👋 Hi, I'm Abdul Rehman</h1>
+<h3 align="center">💻 BS Cyber Security | HITEC University</h3>
 
 ---
 
-## 🚀 About Me  
-I’m passionate about **cybersecurity**, **ethical hacking**, and **secure software development**.  
-Currently, I’m expanding my knowledge in **network security**, **C++ programming**, and **system defense mechanisms**.  
-
-I believe in learning by doing — and GitHub is where I document my projects, coding practices, and security experiments.  
-
----
-
-## 🧠 Skills & Interests  
-- **Programming Languages:** C++, Python, HTML/CSS, JavaScript  
-- **Cybersecurity Areas:** Ethical Hacking, Network Security, Digital Forensics  
-- **Other Interests:** Problem Solving, Automation, Secure Web Development  
+### 🧠 About Me  
+🎯 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Programming**.  
+📘 Currently learning **Network Security**, **C++**, and **Secure Software Development**.  
+🔒 Interested in exploring **digital forensics**, and **threat analysis**.  
+💡 I believe in continuous learning and building practical skills through hands-on projects.
 
 ---
 
-## 📫 Connect With Me  
-📧 Email: mirabdulrehman796@gmail.com  
-🌐 GitHub: [github.com/AbdulRehman](https://github.com/abdulrehman939)  
-💼 LinkedIn: [linkedin.com/in/abdulrehman](https://www.linkedin.com/in/abdul-rehman-15797137a/)
+### 🧰 Skills & Tools  
+💻 **Languages:** C++, Python, HTML, CSS, JavaScript  
+🛠️ **Cybersecurity Tools:** Wireshark, Nmap, Burp Suite, Metasploit  
+🌐 **Other Skills:** Linux, Networking, Git  
 
 ---
 
-⭐ *“Cybersecurity is not just about technology — it’s about mindset, awareness, and discipline.”*  
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+📧 **Email:** mirabdulrehman796.com  
+🔗 **LinkedIn:** [linkedin.com/in/abdulrehman](https://www.linkedin.com/in/abdul-rehman-15797137a/)  
+🐙 **GitHub:** [github.com/AbdulRehman](https://github.com/abdulrehman939)  
+
+---
+
+⭐ *“Cybersecurity is not just about tools — it’s about awareness, logic, and continuous learning.”*  
